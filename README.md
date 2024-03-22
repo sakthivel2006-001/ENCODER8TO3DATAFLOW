@@ -56,12 +56,11 @@ assign c=din[2] | din[4] | din[6] | din[7];
 
 endmodule
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
 
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+## Developed by:S.SAKTHIVEL
+## RegisterNumber:212223220090
+
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![Screenshot 2024-03-22 143404](https://github.com/sakthivel2006-001/ENCODER8TO3DATAFLOW/assets/151398732/d0e09946-1bc4-4558-aaa6-45cedaa93e2a)
